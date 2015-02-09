@@ -8,7 +8,7 @@
 
 #ifndef aws_aws_ios_header_h
 #define aws_aws_ios_header_h
-#import <AWSiOSSDKv2/AWSCore.h>
+#import "AWSiOSSDKv2/AWSCore.h"
 #import "DynamoDB.h"
 
 #endif

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>466663B1-88F6-4AF1-B787-22AE0A40ACEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>aws</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>09404569CF8F8B064CC8090058884BBC150B929D</key>
+		<string>https://github.com/randeepbhatia/aws.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>aws/aws.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>09404569CF8F8B064CC8090058884BBC150B929D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/randeepbhatia/aws.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>09404569CF8F8B064CC8090058884BBC150B929D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>09404569CF8F8B064CC8090058884BBC150B929D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aws</string>
+		</dict>
+	</array>
+</dict>
+</plist>

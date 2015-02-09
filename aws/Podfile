@@ -1,0 +1,3 @@
+source 'https://github.com/CocoaPods/Specs.git'
+xcodeproj '/Users/rabhatia/Desktop/aws/aws.xcodeproj'
+pod 'AWSiOSSDKv2'
